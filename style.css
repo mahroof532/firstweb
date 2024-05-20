@@ -433,6 +433,7 @@ section .header2 {
 .tes {
     margin-top: 2rem;
     padding: 2rem;
+    padding-left: 80px;
 }
 
 .card1 {
@@ -478,6 +479,7 @@ section .header2 {
         height: 470px;
         padding: 10px;
     }
+
    
 }
 
