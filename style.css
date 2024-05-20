@@ -193,6 +193,7 @@ nav button#menuButton {
 .two {
     position: relative;
     right: 70px;
+    z-index: -1;
 }
 .imag img {
     border-radius: 25px;
