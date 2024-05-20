@@ -28,63 +28,7 @@ img {
     margin-bottom: 30px;
 
 }
-/* .container-sm {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 0 15px;
-}
-.navbar {
-    background: #fff;
-    padding: 20px;
-}
-.navbar .container {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-.navbar .main-menu ul {
-    display: flex;
-    padding-bottom: 10px;
-}
-.navbar ul li a {
-    padding: 10px 20px;
-    display: block;
-    font-weight: 600;
-    transition: 0.5s;
-}
-.navbar ul li a:hover {
-    color: #843F0F;
-}
-.navbar ul li:last-child a {
-    margin-left: 10px;
-}
-.navbar ul li a i {
-    margin-right: 10px;
-}
-.navbar .logo img {
-    width: 100px;
-}
-/* Buttons */
-/* .btn {
-    display: inline-block;
-    padding: 13px 20px;
-    background: #843F0F;
-    color: #fff;
-    font-weight: 600;
-    text-decoration: none;
-    border: none;
-    border-radius: 20px;
-    cursor: pointer;
-    transition: 0.5s;
-}
-.btn a:hover {
-    opacity: 0.8;
-    color: #fff;
-}
-.btn-color {
-    background-color: #843F0F;
-    color: #fff;
-} */
+
 
 /* navbar */
 nav {
