@@ -25,6 +25,8 @@ img {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 15px;
+    margin-bottom: 30px;
+
 }
 /* .container-sm {
     max-width: 800px;
@@ -86,7 +88,6 @@ img {
 
 /* navbar */
 nav {
-    margin-bottom: 30px;
     background-color: #fff;
     position: sticky;
     top: 0;
