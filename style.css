@@ -329,6 +329,7 @@ nav button#menuButton {
 .slider img{
     border-radius: 15px;
     height: 50vh;
+    z-index: -1;
 }
 
 .navigation {
