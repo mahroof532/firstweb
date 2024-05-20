@@ -71,3 +71,9 @@ let slideIndex = 0;
 
         // Initialize the slider
         showSlide(slideIndex);
+
+// navbar
+function openMenu() {
+    const nav = document.querySelector('nav');
+    nav.classList.toggle('open');
+}
