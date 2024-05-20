@@ -149,7 +149,30 @@ nav button#menuButton {
     nav ul li a {
         font-size: 15px;
     }
+}
 
+@media (max-width:768px){
+    nav {
+        justify-content: space-between;
+        padding: 0 42px;
+    }
+    nav ul {
+        display: none;
+    }
+    /* final */
+    nav.open .logo {
+        display: none;
+    }
+    nav.open ul {
+        display: flex;
+    }
+
+
+    nav button#menuButton{
+        display: flex;
+    }
+
+}
 /* hero */
 
 .hero {
