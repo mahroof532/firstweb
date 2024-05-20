@@ -126,8 +126,8 @@ nav button {
     transition: all 0.3s ease;
 }
 nav button:hover {
-    background-color: #5e3bee;
-    border-color: #5e3bee;
+    background-color: #843F0F;
+    border-color: #843F0F;
     color: #fff;
 }
 nav button#menuButton {
