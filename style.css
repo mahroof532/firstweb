@@ -235,6 +235,9 @@ nav button#menuButton {
     margin-top: 1rem;
     color: #545454;
 }
+.about .right {
+    width: 100px;
+}
 
 .about .right img {
     width: 600px;
