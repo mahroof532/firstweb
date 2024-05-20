@@ -212,7 +212,7 @@ img {
     position: relative;
     width: 100%;
     height: 400px; 
-    background-image: url('images/Image\ 3.png'); 
+    background-image: url('../images/Image\ 3.png'); 
     background-size: cover;
     background-position: center;
     border-radius: 25px; 
