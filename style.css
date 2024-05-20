@@ -86,7 +86,7 @@ img {
 
 /* navbar */
 nav {
-    
+    margin-bottom: 30px;
     background-color: #fff;
     position: sticky;
     top: 0;
