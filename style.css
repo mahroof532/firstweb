@@ -238,7 +238,8 @@ img {
 }
 
 .overlay h3 {
-    font-size: 1rem; 
+    font-size: 36px; 
+    font-weight: bold;
 }
 
 .overlay p {
