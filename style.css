@@ -179,8 +179,8 @@ nav button#menuButton {
     font-weight: 400;
 }
 .hero-text {
-    font-size: 18px;
-    padding-left: 32px;
+    font-size: 1rem;
+    margin-left: 33px;
 }
 
 .two {
