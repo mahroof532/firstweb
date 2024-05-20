@@ -239,6 +239,7 @@ section .header {
     color: #545454;
     margin-bottom: 1rem;
 }
+
 @media (width < 900px){
     .features {
         grid-template-columns: repeat(2,1fr);
@@ -322,7 +323,7 @@ section .header2 {
    
 }
 
-.content {
+/* .content {
     display: flex;
     width: 100%;
   }
@@ -389,7 +390,7 @@ section .header2 {
         flex: none;
         width: 100%;
     }
-  }
+  } */
 
 /* 5 */
 footer {
