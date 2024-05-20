@@ -433,7 +433,7 @@ section .header2 {
 .tes {
     margin-top: 2rem;
     padding: 2rem;
-    padding-left: 40px;
+    /* padding-left: 40px; */
 }
 
 .card1 {
