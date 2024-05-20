@@ -610,6 +610,6 @@ footer .column > a {
 }
 @media (max-width:768px){
     footer {
-        grid-template-columns: 1fr 150px;
+        grid-template-columns: 1fr;
     }
 }
