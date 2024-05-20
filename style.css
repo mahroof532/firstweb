@@ -120,6 +120,17 @@ nav button#menuButton {
     }
 
 }
+@media (max-width:458px){
+    .text-xxl {
+        margin: 44px 0 20px 40px;
+    }
+    .hero-text {
+        margin-left: 44px;
+    }
+    .hero-buttons {
+        margin-left: 45px;
+    }
+}
 /* hero */
 
 .hero {
