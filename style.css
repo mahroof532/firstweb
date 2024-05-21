@@ -309,7 +309,8 @@ nav button#menuButton {
     position: relative;
     max-width: 100%;
     overflow: hidden;
-    height: 500px;
+    height: 700px;
+
     /* border-radius: 15px; */
 }
 
